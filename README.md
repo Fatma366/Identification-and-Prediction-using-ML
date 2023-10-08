@@ -6,7 +6,7 @@ Identification and Prediction of Bacterial Pathogens Colonizing Yellowing Diseas
 [Compare and contrast assignment](https://docs.google.com/document/d/e/2PACX-1vT-S1SEqiCdmQdhLysbPl3mSLSgQpsciVwau3eFL9tmjsWIBWSVs7d7LokUKqyG-iXa2KrCXtwX7VvW/pub)
 
 ## Table of Contents
-- [What are we doing? (And why?)](#What are we doing? (And why?))
+- [What are we doing? (And why?)](#Whatarewedoing?(Andwhy?))
 - [Objectives](#Objectives)
 - [Data](#Data)
 - [Key Metrics](#KeyMetrics)
