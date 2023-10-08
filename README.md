@@ -6,7 +6,7 @@ Identification and Prediction of Bacterial Pathogens Colonizing Yellowing Diseas
 [Compare and contrast assignment](https://docs.google.com/document/d/e/2PACX-1vT-S1SEqiCdmQdhLysbPl3mSLSgQpsciVwau3eFL9tmjsWIBWSVs7d7LokUKqyG-iXa2KrCXtwX7VvW/pub)
 
 ## Table of Contents
-- [What are we doing? (And why?)](#Introduction)
+- [What are we doing? (And why?)](#What are we doing? (And why?))
 - [Objectives](#Objectives)
 - [Data](#Data)
 - [Key Metrics](#KeyMetrics)
@@ -17,7 +17,7 @@ Identification and Prediction of Bacterial Pathogens Colonizing Yellowing Diseas
 - [Team](#Team)
 
 
-# Introduction
+# What are we doing? (And why?)
 
 ## Problem
 The lack of sufficient scientific data on Kenyan coconut diseases demands a comprehensive documentation effort. Identifying the bacterial pathogens behind these diseases is essential for effective disease management.
