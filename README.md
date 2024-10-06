@@ -16,26 +16,26 @@ Identification and Prediction of Bacterial Pathogens Colonizing Yellowing Diseas
 # What are we doing? (And why?)
 
 ## Problem
-The lack of sufficient scientific data on Kenyan coconut diseases demands a comprehensive documentation effort. Identifying the bacterial pathogens behind these diseases is essential for effective disease management.
+The lack of sufficient and open scientific data on Kenyan coconut diseases demands a comprehensive documentation effort. Identifying the bacterial pathogens behind these diseases is essential for effective disease management.
 
 ## Solution
-We propose to harness the power of cutting-edge DNA analysis and machine learning models to achieve accurate detection and prediction of coconut yellowing diseases along Kenya's coastline.
+- We propose to harness the power of machine learning models to achieve accurate detection and prediction of coconut yellowing diseases along Kenya's coastline.
+- Submission of generated genomic data to public databases 
 
 ## Unique Value Proposition
 Our project stands out by combining advanced DNA analysis, machine learning techniques, and indigenous knowledge. This unique blend allows us to tackle the challenges posed by coconut yellowing diseases effectively.
 
 ### Objectives
-- Build pipeline that can predict coconut yellowing disease (CYD) based on the bacterial diversity
-- Discriminate between the CYD samples in the three counties using the bacterial diversity
-- Discriminate between the CYD samples and healthy control samples using the bacterial diversity
-- Identify the bacteria biomarkers associated with CYD
+- Submit genomic data to a public data base
+- Build a cat boost model to predict coconut yellowing disease (CYD) based on the bacterial diversity
 
 ### Data
 The data for this study is 16SrRNA  dataset from yellowing diseased coconut plants from the Kenyan coast
 
 ## KeyMetrics
+- Availing our data to a public data base
 - Accuracy of machine learning models
-- Predicted susceptibility of pathogens
+
 
 ## TargetUserProfiles
 - Agricultural researchers
@@ -44,7 +44,6 @@ The data for this study is 16SrRNA  dataset from yellowing diseased coconut plan
 - Kenya Coconut Development Authority (KCDA)
 
 ## ResourcesRequired
-- Data collection resources
 - Bioinformatics tools
 - Machine learning frameworks (Python libraries)
 - Contributors from diverse backgrounds
@@ -57,7 +56,7 @@ Our project welcomes contributions from various fields, including:
 - Universities and Research Institutions
 - Passionate about coconut farming
 
-##Howcanyougetinvolved?
+## How can you get involved ?
 
 You can find us on: [GitHub](https://github.com/Fatma366/Identification-and-Prediction-using-ML)
 
